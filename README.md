@@ -54,18 +54,6 @@ The final output is rewritten in clear Egyptian Arabic.
 
 ---
 
-## 📂 Project Structure
-
-app/
-│
-├── agents/
-│ └── feasibility_guard.py
-│
-├── schemas.py
-├── config.py
-└── main.py
-
----
 
 ## 🚀 Running the Project
 
